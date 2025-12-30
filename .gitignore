@@ -1,0 +1,30 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Debug / Release
+[Dd]ebug/
+[Rr]elease/
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Logs
+*.log
+
+## OS files
+.DS_Store
+Thumbs.db
